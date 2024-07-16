@@ -9,7 +9,7 @@ int AC_sensor=0;
 int Engine_controller=0;
 int vehicle_speed=0;
 void starting_options(void);
-int start_menu(void);
+//int start_menu(void);
 int sensors_settings(void);
 int temperature(void);
 int engine_controller(void);
